@@ -305,7 +305,7 @@ const PenalCode: PenalCode[] = [
         id: 2007,
         months: 25,
         fine: 1000,
-        description: "A person who, alone or in concert with others, takes property from the person or immediate presence of another, against their will, by means of force or fear, including through criminal threats, assault, or battery, is guilty under this code section.",
+        description: "A person who, alone or in concert with others, takes property from the person or immediate presence of another, against their will, by means of force or fear, including but not limited to criminal threats, assault, or battery, is guilty under this code section.",
       },
       8: {
         title: "Accessory to Robbery",
@@ -321,7 +321,7 @@ const PenalCode: PenalCode[] = [
         id: 2009,
         months: 15,
         fine: 300,
-        description: "A person who, alone or in concert with others, attempts to take property from the person or immediate presence of another, against their will, by means of force or fear, including through criminal threats, assault, or battery, is guilty under this code section.",
+        description: "A person who, alone or in concert with others, attempts to take property from the person or immediate presence of another, against their will, by means of force or fear, including but not limited to criminal threats, assault, or battery, is guilty under this code section.",
       },
       10: {
         title: "Armed Robbery",
