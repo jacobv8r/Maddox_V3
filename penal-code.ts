@@ -289,7 +289,7 @@ const PenalCode: PenalCode[] = [
         id: 2005,
         months: 20,
         fine: 400,
-        description: "A person who commits the theft of a motor vehicle from another person while it is being operated is guilty under this code section",
+        description: "A person who commits the theft of a motor vehicle from another person while it is being operated is guilty under this code section.",
       },
       6: {
         title: "Burglary",
@@ -305,7 +305,7 @@ const PenalCode: PenalCode[] = [
         id: 2007,
         months: 25,
         fine: 1000,
-        description: "A person who takes property from the possession of another against their will, by means of force or fear, such as through criminal threats, blunt weapons, assault or battery is guilty under this code section.",
+        description: "A person who, either alone or as a group, takes or facilitates the taking of property from the possession of another against their will, by means of force or fear, such as through criminal threats, assault, or battery is guilty under this code section.",
       },
       8: {
         title: "Accessory to Robbery",
@@ -313,7 +313,7 @@ const PenalCode: PenalCode[] = [
         id: 2008,
         months: 12,
         fine: 200,
-        description: "A Person who assists someone with comitting Robbery is guilty under this code section.",
+        description: "A person who, without direct role in the commission of the act, knowingly assists in the avoidance of arrest and prosecution of a person comitting robbery is guilty under this code section.",
       },
       9: {
         title: "Attempted Robbery",
@@ -321,7 +321,7 @@ const PenalCode: PenalCode[] = [
         id: 2009,
         months: 15,
         fine: 300,
-        description: "A person who attempts to take property from the possession of another against their will, by means of force or fear, such as through criminal threats, blunt weapons, assault or battery is guilty under this code section.",
+        description: "A person who, either alone or as a group, attempts to take or facilitate the taking of property from the possession of another against their will, by means of force or fear, such as through criminal threats, assault, or battery is guilty under this code section.",
       },
       10: {
         title: "Armed Robbery",
@@ -329,7 +329,7 @@ const PenalCode: PenalCode[] = [
         id: 2010,
         months: 25,
         fine: 1500,
-        description: "A person who takes property from the possession of another against their will, by means of force facilitated with a gun or any bladed weapon is guilty under this code section.",
+        description: "A person who, either alone or as a group, takes or facilitates the taking of property from the possession of another against their will, by means of force facilitated with a gun or any bladed weapon is guilty under this code section.",
       },
       11: {
         title: "Accessory to Armed Robbery",
@@ -337,7 +337,7 @@ const PenalCode: PenalCode[] = [
         id: 2011,
         months: 12,
         fine: 300,
-        description: "A person who helps someone to take property from the possession of another against their will, by means of force facilitated with a gun or any bladed weapon is guilty under this code section.",
+        description: "A person who, without direct role in the commission of the act, knowingly assists in the avoidance of arrest and prosecution of a person comitting armed robbery is guilty under this code section.",
       },
       12: {
         title: "Attempted Armed Robbery",
@@ -345,7 +345,7 @@ const PenalCode: PenalCode[] = [
         id: 2012,
         months: 25,
         fine: 300,
-        description: "A person who attempts to take property from the possession of another against their will, by means of force facilitated with a gun or any bladed weapon is guilty under this code section.",
+        description: "A person who, either alone or as a group, attempts to take or facilitate the taking of property from the possession of another against their will, by means of force facilitated with a gun or any bladed weapon is guilty under this code section.",
       },
       13: {
         title: "Grand Larceny",
