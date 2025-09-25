@@ -244,6 +244,14 @@ const PenalCode: PenalCode[] = [
         fine: 1500,
         description: "A person who intentionally causes extreme pain and suffering to someone for reasons such as punishment, extracting a confession, interrogation, revenge, extortion, or any sadistic purpose, is guilty under this code section.",
       },
+      29: {
+        title: "Assault and Battery on a Public Servant or Peace Officer",
+        class: "Felony",
+        id: 1029,
+        months: 30,
+        fine: 2500,
+        description: "A person who intentionally and unlawfully applies force directly or indirectly upon a public servant or peace officer, while in the execution of their duties, is guilty under this code section.",
+      },      
     },
   },
 
@@ -1192,6 +1200,22 @@ const PenalCode: PenalCode[] = [
         fine: 5000,
         description: "A person who uses explosives or incediaries in the act of committing a crime is guilty under this code section.",
       },
+      20: {
+        title: "Improper Storage of Firearm",
+        class: "Misdemeanor",
+        id: 8020,
+        months: 5,
+        fine: 2500,
+        description: "A person who stores, or is possession of, a firearm in an unsecured container, such as a vehicle glovebox or unlocked vehicle trunk, is guilty under this code section.",
+      },
+      21: {
+        title: "Improper Handling of Firearm",
+        class: "Misdemeanor",
+        id: 8021,
+        months: 5,
+        fine: 2500,
+        description: "A licensed person who fails to report a lost or stolen firearm; lends a firearm to another licensed person outside the presence of the registered owner; or who presents firearm access to an unlicensed person, is guilty under this code section.",
+      },      
     },
   },
 
@@ -1252,8 +1276,8 @@ const PenalCode: PenalCode[] = [
         class: "Infraction",
         id: 9007,
         months: 0,
-        fine: 125,
-        description: "A person who, while operating a motor vehicle, displays behavior that endangers the safety of other drivers or pedestrians, due to negligence, is guilty under this code section.",
+        fine: 500,
+        description: "A person who, while operating a motor vehicle, displays behavior that endangers the safety of other drivers or pedestrians, due to negligence, is guilty under this code section. Negligent driving includes, but is not limited to, using a cellular device while driving on a public road or highway; and failing to move over or slow down for stationary emergency and service vehicles with warning lights flashing on highways.",
       },
       8: {
         title: "Reckless Driving",
@@ -1349,7 +1373,7 @@ const PenalCode: PenalCode[] = [
         id: 9019,
         months: 0,
         fine: 100,
-        description: "A person who parks their vehicle while blocking the roadway, on a red curb, or in a marked no parking zone is guilty under this code section.",
+        description: "A person who parks their vehicle while blocking the roadway, on a red curb, on a pedestrian walkway, or in a marked no parking zone is guilty under this code section.",
       },
       20: {
         title: "Hit and Run",
@@ -1476,8 +1500,7 @@ const PenalCode: PenalCode[] = [
         id: 10009,
         months: 15,
         fine: 6250,
-        description:
-          "Illegal fishing is defined as fishing using illegal hooks or possessing, transporting, or selling fish of prohibited lengths or species. Species that are prohibited from possession include: whales, sharks, arapaima, giant snakehead, goliath tigerfish, devil rays, kraken, megalodon, giant coelacanth, and golden fish. These fish, however, may be caught for sport and then immediately released. The minimum and maximum lengths for fish that may be caught, transported and sold are as follows (in inches): Salmon |30 - 40|, Trout |20 - 30|, Bass |20 - 30|, Catfish |18 - 30|, Perch |5 - 10|, Pike |22 -38 in|, Carp |15 - 30|, Bluegill |7 - 14 in|, Cod |30 - 45|, Herring |7 - 13|, Walleye |26 - 38|, Bream |12 - 22|, Zander |22 - 38|, Sturgeon |100 - 130|, Swordfish |65 - 95|, Tuna |50 - 75|, Muskellunge |32 - 48|, Tarpon |75 - 110|, Giant Catfish |85 - 115|. Individuals found to be illegally possessing, transporting, or selling these species are subject to confiscation of the fish and subject to the penalties outlined herein. ",
+        description: "Illegal fishing is defined as fishing using illegal hooks or possessing, transporting, or selling fish of prohibited lengths or species. Species that are prohibited from possession include: whales, sharks, arapaima, giant snakehead, goliath tigerfish, devil rays, kraken, megalodon, giant coelacanth, and golden fish. These fish, however, may be caught for sport and then immediately released. The minimum and maximum lengths for fish that may be caught, transported and sold are as follows (in inches): Salmon |30 - 40|, Trout |20 - 30|, Bass |20 - 30|, Catfish |18 - 30|, Perch |5 - 10|, Pike |22 -38 in|, Carp |15 - 30|, Bluegill |7 - 14 in|, Cod |30 - 45|, Herring |7 - 13|, Walleye |26 - 38|, Bream |12 - 22|, Zander |22 - 38|, Sturgeon |100 - 130|, Swordfish |65 - 95|, Tuna |50 - 75|, Muskellunge |32 - 48|, Tarpon |75 - 110|, Giant Catfish |85 - 115|. Individuals found to be illegally possessing, transporting, or selling these species are subject to confiscation of the fish and subject to the penalties outlined herein. ",
       },
       10: {
         title: "Overfishing",
@@ -1487,6 +1510,14 @@ const PenalCode: PenalCode[] = [
         fine: 600,
         description: "Daily catch limit is 30 fish per person per day. Violations of the catch limit are punishable by up to $600 per fish above the allotted amount. All fishing vessels and subjects who are engaged in fishing are subject to random inspections by Fish & Wildlife Officers for the stated purpose of monitoring fishing equipment, fish length, and all other duties.",
       },
+      11: {
+        title: "Willful Injury to Police Working Dog",
+        class: "Felony",
+        id: 10011,
+        months: 25,
+        fine: 1500,
+        description: "A person who intentionally injures, disables, or otherwise mistreats a police working dog, while in the execution of their duties, is guilty under this code section.",
+      },      
     },
   },
 ];
