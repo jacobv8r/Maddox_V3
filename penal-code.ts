@@ -1206,7 +1206,7 @@ const PenalCode: PenalCode[] = [
         id: 8020,
         months: 5,
         fine: 2500,
-        description: "A person who stores, or is possession of, a firearm in an unsecured container, such as a vehicle glovebox or unlocked vehicle trunk, is guilty under this code section.",
+        description: "A person who stores, or is in possession of, a firearm in an unsecured container, such as a vehicle glovebox or unlocked vehicle trunk, is guilty under this code section.",
       },
       21: {
         title: "Improper Handling of Firearm",
