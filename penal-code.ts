@@ -1214,7 +1214,7 @@ const PenalCode: PenalCode[] = [
         id: 8021,
         months: 5,
         fine: 2500,
-        description: "A licensed person who fails to report a lost or stolen firearm; lends a firearm to another licensed person outside the presence of the registered owner; or who presents firearm access to an unlicensed person, is guilty under this code section.",
+        description: "A licensed person who fails to report a lost or stolen firearm; lends a firearm to another licensed person outside the presence of the registered owner; or provides firearm access to an unlicensed person is guilty under this code section.",
       },      
     },
   },
